@@ -1,0 +1,121 @@
+#one{background-image: url(images/banner3.jpg);background-size: width:1450px;height: 400px}
+		#two{float: left;}
+		#three{float: left;
+
+      }
+		#nav{
+        width:1000px;
+        font-size:20px;
+        text-align:center;
+        padding-left: 130px;
+
+      }
+       #nav ul{
+        list-style-type:none;
+        padding:6px;
+        margin:0px;
+        overflow: hidden;
+         display:inline-block;
+        
+        }
+        #nav ul li{
+        text-align:center;
+        float:left;
+
+      }
+        #nav ul li a{
+        width:150px;
+        text-decoration:none;
+        height:40px;
+        line-height:55px;
+        font-weight:bold;
+        color:#9933FA;
+        
+        float:left;
+      }
+      #nav ul li a:hover{
+        
+        color:rgb(242,192,86);
+        font-weight:bold;
+        
+      }
+      #search{
+			
+			width: 300px;
+
+			float: right;
+      }
+      #searchElement{float: left;}
+      body{background-image: url(images/beijing.png);}
+
+      .weizhi{
+        width:300px;
+        height:40px;
+        font-size:18px;
+        
+        padding-left: 180px;
+        }
+      .weizhi p{
+        padding:20px 0px 0px 30px;
+        }
+        .weizhi p a{text-decoration:none;color:rgb(242,192,86);
+        }
+        .weizhi p a:hover{color: #9933FA}
+        .left{
+              padding-left: 210px;
+              float: left;
+              width: 300px;
+              font-size: 18px;
+              padding-top: 50px;
+              }
+        .left ul li a{color: rgb(198,35,199);
+                      text-decoration: none;
+                      }
+        .left ul li a:hover{color:rgb(242,192,86)}
+        .left img{width:260px;height: 200px}
+        .left2{width: 90%}
+        .left2 li a{color:rgb(198,35,199);
+                text-decoration: none;
+         }
+         .left2 li a:hover{color: rgb(242,192,86)}
+        .right{
+          padding-top: 110px;
+          float: left;}
+          .right ul li a{color:rgb(198,35,199);
+                        text-decoration:none;
+            }
+           .right ul li a:hover{color: rgb(242,192,86)} 
+
+      .la{
+        float: left;
+      }
+
+#ten{width:1000px;
+        font-size:14px;
+        text-align:center;
+        padding-left: 130px;}
+#ten ul{
+        list-style-type:none;
+        padding:6px;
+        margin:0px;
+        overflow: hidden;
+         display:inline-block;
+        
+        }
+#ten ul li{
+        text-align:center;
+        float:left;
+
+      }
+#ten ul li a{
+        width:150px;
+        text-decoration:none;
+        height:40px;
+        line-height:55px;
+        font-weight:bold;
+        color:#663366;
+        
+        float:left;
+      }
+      .footer{height: 150px;background:#666;color:#aaa;text-align: center;
+        margin-top: 800px;}
